@@ -1,0 +1,83 @@
+
+================================================
+Social Media Addiction Analysis
+Key Business Insights
+Author: Taimoor
+================================================
+
+1. USAGE VS ADDICTION (STRONG)
+------------------------------
+Heavy Users    = 67.00 avg addiction
+Medium Users   = 60.77 avg addiction
+Low Users      = 42.95 avg addiction
+Finding: Heavy social media users have 
+significantly higher addiction scores.
+
+2. DOPAMINE VS ADDICTION (STRONGEST)
+------------------------------
+High Dopamine  = 68.66 avg addiction
+Medium Dopamine= 62.09 avg addiction
+Low Dopamine   = 46.94 avg addiction
+Finding: Dopamine dependency is the 
+strongest predictor of addiction.
+
+3. SLEEP QUALITY VS ADDICTION (STRONG)
+------------------------------
+Low Addiction  = 7.30 sleep quality
+Medium         = 6.81 sleep quality
+High Addiction = 5.83 sleep quality
+Finding: Higher addiction levels are 
+associated with worse sleep quality.
+
+4. TIKTOK VS INSTAGRAM
+------------------------------
+TikTok Heavy   = 59.42 avg addiction
+Instagram Heavy= 57.21 avg addiction
+Finding: TikTok users show slightly 
+higher addiction than Instagram users.
+
+5. TOP COUNTRIES
+------------------------------
+Netherlands = 116 high addiction users
+Angola      = 107 high addiction users
+Russia      = 105 high addiction users
+Finding: Netherlands leads in high 
+addiction users globally.
+
+6. MENTAL HEALTH RISK
+------------------------------
+High Addiction = 45.80 avg MHRI
+Medium         = 40.53 avg MHRI
+Low Addiction  = 38.98 avg MHRI
+Finding: Higher addiction is strongly 
+linked to higher mental health risk.
+
+7. AGE GROUP ANALYSIS (WEAK)
+------------------------------
+Adult       = 58.75 avg addiction
+Older Adult = 58.56 avg addiction
+Teen        = 58.42 avg addiction
+Young Adult = 58.33 avg addiction
+Finding: Age has very weak relationship 
+with addiction score.
+
+8. SLEEP HOURS VS ADDICTION (WEAK)
+------------------------------
+Low Sleep    = 58.73 avg addiction
+High Sleep   = 58.59 avg addiction
+Medium Sleep = 58.43 avg addiction
+Finding: Sleep hours alone do not 
+strongly predict addiction.
+
+================================================
+SUMMARY FOR MANAGER
+================================================
+The strongest predictors of social media 
+addiction are:
+1. Dopamine dependency (difference: 21.72)
+2. Social media usage level (difference: 24.05)
+3. Sleep quality (difference: 1.47)
+
+Age, sleep hours, and impulsivity showed 
+weak relationships with addiction score.
+================================================
